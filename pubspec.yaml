@@ -1,7 +1,7 @@
 name: networktime
 description: A network time by WorldTimeAPI
-version: 0.0.1
-homepage:
+version: 0.0.2
+homepage: https://github.com/prabhuc94/NetworkTime
 
 environment:
   sdk: '>=3.1.0 <4.0.0'
@@ -13,6 +13,7 @@ dependencies:
   flutter_web_plugins:
     sdk: flutter
   http: ^1.1.0
+  intl: ^0.18.1
   plugin_platform_interface: ^2.0.2
 
 dev_dependencies:
